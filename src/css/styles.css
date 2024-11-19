@@ -52,7 +52,7 @@ main {
 }
 
 .card .image-link:hover::after {
-    opacity: 0.4;
+    opacity: 1;
 }
 
 .card .title-link .title {
