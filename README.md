@@ -65,7 +65,7 @@ A forma de utilização das pseudo-classes e pseudo-elementos foi muito interess
 
 ## Autor
 
-- LinkedIn - [Vanderlei Junior](https://www.linkedin.com/in/vanderlei-oliveira94/)
+- LinkedIn - [Vanderlei Junior](https://www.linkedin.com/in/vanderleidev/)
 - Frontend Mentor - [@Vanderlei94](https://www.frontendmentor.io/profile/Vanderlei94)
 - GitHub - [@Vanderlei94](https://github.com/Vanderlei94)
 
